@@ -1,0 +1,27 @@
+{
+    "name": "dpwlabs/httpsyii2",
+    "description": "Force HTTPS extension for Yii2 framework",
+    "keywords": ["yii2", "https"],
+    "type": "yii2-extension",
+	"version": "1.0.0",
+    "license": "BSD",
+    "support": {
+        "issues": "https://github.com/RAvenGEr/Yii2-HTTPS/issues",
+        "source": "https://github.com/RAvenGEr/Yii2-HTTPS"
+    },
+    "authors": [
+        {
+            "name": "David Webb",
+            "email": "ravenger@dpwlabs.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dpwlabs\\https\\": ""
+        }
+    }
+}
