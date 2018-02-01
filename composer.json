@@ -3,7 +3,7 @@
     "description": "Force HTTPS extension for Yii2 framework",
     "keywords": ["yii2", "https"],
     "type": "yii2-extension",
-	"version": "1.0.0",
+	"version": "1.0.2",
     "license": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/RAvenGEr/Yii2-HTTPS/issues",
